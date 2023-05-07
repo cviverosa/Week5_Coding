@@ -129,8 +129,7 @@ class Menu{
             case '2':
                 this.deleteStudent();
                 break;   
-            case '3':
-                this.viewStudent();     
+                 
         }
         }
 
